@@ -1,1 +1,1 @@
-print("I love NDTC!!!")
+print("Hello, World")
